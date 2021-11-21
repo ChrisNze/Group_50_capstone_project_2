@@ -19,6 +19,8 @@ body {
 	box-sizing: border-box;
 }
 
+/* Menu on Mobile View Style Begins */
+
 .popup__close {
 	display: none;
 }
@@ -64,6 +66,8 @@ body {
 .menu__list button:last-child:hover {
 	background-color: hsl(51, 100%, 49%, 0.5);
 }
+
+/* Menu on Mobile View Style Ends */
 
 .container {
 	width: 100%;
@@ -495,6 +499,10 @@ body {
 
 	.navigation__list {
 		display: none;
+	}
+
+	.header__text {
+		margin-top: 25rem;
 	}
 
 	/* First section STYLE BEGIN */
