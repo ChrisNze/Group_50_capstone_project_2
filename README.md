@@ -25,25 +25,10 @@ Recreate the landing page for SunnySide Agency
 # Members of the Team
 
 1. Nzeanorue Christian Chukwuemeka
-2. Chidimma Angela Chukwu
-3. Segun Ojoye
-4. Doreen Kpaniku
-5. Zakariyah Sheriffdeen Feranmi
-6. Afikode Ifeoluwa Johnson
-7. Raymond chinaemerem doris
-8. Joy Ekemezie
-9. Duru Chukwudi Michael
-10. Ismael Wesa
-11. JOYLENE CHEPKOECH KIRUI
-12. Kassim Michael olamide
-13. Nwakaji Elera Emmanuel
-14. Jubreel Adebayo
-15. Dennis Daniels
-16. Ibrahim Adewuyi
-17. Adedamola Agbonhin
-18. Ibrahim isaka
-19. Elijah Adekoya
-20. Bello Ramadan Abiodun
+2. Elijah Adekoya
+3. Joy Ekemezie
+4. Duru Chukwudi Michael
+5. Kassim Michael
 
 # Experience learning Frontend (HTL, CSS, TailwindCss, JS) so far in SideHustle Internship
 
